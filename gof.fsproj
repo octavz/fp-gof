@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <Compile Include="Visitor.fs" />
+    <Compile Include="Strategy.fs" />
+    <Compile Include="ChainOfResponsability.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
